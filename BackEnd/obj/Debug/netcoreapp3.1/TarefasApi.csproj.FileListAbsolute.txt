@@ -1,0 +1,54 @@
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.exe
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.deps.json
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.runtimeconfig.json
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.runtimeconfig.dev.json
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.dll
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.pdb
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.csprojAssemblyReference.cache
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/obj/Debug/netcoreapp3.1/staticwebassets/TarefasApi.StaticWebAssets.Manifest.cache
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/obj/Debug/netcoreapp3.1/staticwebassets/TarefasApi.StaticWebAssets.xml
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.AssemblyInfoInputs.cache
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.AssemblyInfo.cs
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.RazorTargetAssemblyInfo.cache
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.dll
+C:/Users/Reehm/Desktop/Residencia_2/C#/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.pdb
+C:/Users/rodolfo/Desktop/TarefasApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/rodolfo/Desktop/TarefasApi/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/rodolfo/Desktop/TarefasApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/rodolfo/Desktop/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.exe
+C:/Users/rodolfo/Desktop/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.deps.json
+C:/Users/rodolfo/Desktop/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.runtimeconfig.json
+C:/Users/rodolfo/Desktop/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.runtimeconfig.dev.json
+C:/Users/rodolfo/Desktop/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.dll
+C:/Users/rodolfo/Desktop/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.pdb
+C:/Users/rodolfo/Desktop/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.csprojAssemblyReference.cache
+C:/Users/rodolfo/Desktop/TarefasApi/obj/Debug/netcoreapp3.1/staticwebassets/TarefasApi.StaticWebAssets.Manifest.cache
+C:/Users/rodolfo/Desktop/TarefasApi/obj/Debug/netcoreapp3.1/staticwebassets/TarefasApi.StaticWebAssets.xml
+C:/Users/rodolfo/Desktop/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/rodolfo/Desktop/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.AssemblyInfoInputs.cache
+C:/Users/rodolfo/Desktop/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.AssemblyInfo.cs
+C:/Users/rodolfo/Desktop/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.RazorTargetAssemblyInfo.cache
+C:/Users/rodolfo/Desktop/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.dll
+C:/Users/rodolfo/Desktop/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.pdb
+/home/rodolfo/Área de Trabalho/TarefasApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/rodolfo/Área de Trabalho/TarefasApi/bin/Debug/netcoreapp3.1/appsettings.json
+/home/rodolfo/Área de Trabalho/TarefasApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/rodolfo/Área de Trabalho/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi
+/home/rodolfo/Área de Trabalho/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.deps.json
+/home/rodolfo/Área de Trabalho/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.runtimeconfig.json
+/home/rodolfo/Área de Trabalho/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.runtimeconfig.dev.json
+/home/rodolfo/Área de Trabalho/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.dll
+/home/rodolfo/Área de Trabalho/TarefasApi/bin/Debug/netcoreapp3.1/TarefasApi.pdb
+/home/rodolfo/Área de Trabalho/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.csprojAssemblyReference.cache
+/home/rodolfo/Área de Trabalho/TarefasApi/obj/Debug/netcoreapp3.1/staticwebassets/TarefasApi.StaticWebAssets.Manifest.cache
+/home/rodolfo/Área de Trabalho/TarefasApi/obj/Debug/netcoreapp3.1/staticwebassets/TarefasApi.StaticWebAssets.xml
+/home/rodolfo/Área de Trabalho/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.MvcApplicationPartsAssemblyInfo.cache
+/home/rodolfo/Área de Trabalho/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.AssemblyInfoInputs.cache
+/home/rodolfo/Área de Trabalho/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.AssemblyInfo.cs
+/home/rodolfo/Área de Trabalho/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.RazorTargetAssemblyInfo.cache
+/home/rodolfo/Área de Trabalho/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.dll
+/home/rodolfo/Área de Trabalho/TarefasApi/obj/Debug/netcoreapp3.1/TarefasApi.pdb
